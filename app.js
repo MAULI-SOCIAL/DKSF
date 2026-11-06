@@ -1,5 +1,5 @@
 /* ===== EDIT THESE ===== */
-const EMAIL="contact@yourfoundation.org",WA="";/* WhatsApp number with country code, e.g. "919876543210". Empty = button hidden */
+const EMAIL="maulikatkeoffice@gmail.com",WA="919096929856";/* WhatsApp number with country code, e.g. "919876543210". Empty = button hidden */
 const SOCIAL={Facebook:"",Instagram:"",YouTube:""};/* paste full profile links; empty = hidden */
 /* TOP SLIDESHOW: [file inside /img, Marathi title, English title]. Photos (.jpg .png .webp) and videos (.mp4 .webm) can be mixed in any order. Add, remove or reorder rows freely. */
 const SLIDES=[["slide1.jpg","गुणवंत विद्यार्थ्यांचा गौरव","Honouring students who excel"],["slide2.jpg","गावोगावी आरोग्य सेवा","Health services close to home"],["slide3.jpg","महिलांना रोजगाराची संधी","Work opportunities for women"],["slide4.jpg","गरजू कुटुंबांना अन्नधान्य","Food grain for families in need"],["slide5.jpg","सण, संस्कृती आणि एकोपा","Festivals, culture and togetherness"]];
