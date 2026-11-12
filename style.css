@@ -72,3 +72,5 @@ html{scroll-padding-top:90px}
 .ld{max-width:720px;margin:14px auto 0;font-size:17px;line-height:1.6;text-align:center;color:#e6f0f3}.ld:empty{display:none}
 .lx,.lp,.ln{position:absolute;border:0;border-radius:50%;width:46px;height:46px;background:rgba(255,255,255,.92);color:var(--pet);font-size:26px;line-height:1;cursor:pointer}.lx{top:18px;right:18px}.lp{left:18px;top:50%}.ln{right:18px;top:50%}
 @media(max-width:900px){.gs .im{flex-basis:82%}.rl{flex-basis:min(240px,72%)}.news{columns:2 150px}.lp{left:8px}.ln{right:8px}}
+
+.nocap .nc figcaption,.nocap .ld{display:none}
